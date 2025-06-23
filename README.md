@@ -24,4 +24,5 @@ for reference and tools,
 I used Google, Youtube, ChatGPT, Deepseek, Google Colab
 in which, Google and YouTube were used mostly for the relevent information and tutorials that helped in understanding of excel and github,
 and, ChatGPT and Deepseek were used for both reference and tool to understand code and to enhance the answers of the ineterview questions,
-and, Google Colab for execution of which the python code link will be given in the word document.
+and, Google Colab for execution of which the python code link will be given in the word document and Excel will have two sheets on with one
+without cleaned and pre-processed, and another one with all the steps performed on it.
