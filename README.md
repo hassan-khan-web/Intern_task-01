@@ -21,8 +21,8 @@ Each column’s data type was checked to ensure correctness, such as integers fo
 
 
 for reference and tools,
-I used Google, Youtube, ChatGPT, Deepseek, Google Colab
-in which, Google and YouTube were used mostly for the relevent information and tutorials that helped in understanding of excel and github,
-and, ChatGPT and Deepseek were used for both reference and tool to understand code and to enhance the answers of the ineterview questions,
-and, Google Colab for execution of which the python code link will be given in the word document and Excel will have two sheets on with one
-without cleaned and pre-processed, and another one with all the steps performed on it.
+I used Google, YouTube, ChatGPT, Deepseek, and Google Colab.
+Google and YouTube helped me find tutorials and understand Excel and GitHub.
+ChatGPT and Deepseek were used for understanding code and improving the answers to interview questions.
+Google Colab was used to run the Python code (link will be in the Word document).
+The Excel file has two sheets — one with raw data, and the other with all cleaned and pre-processed steps applied.
